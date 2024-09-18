@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">MAD_Practical-3_22012011038</string>
+    <string name="brows">Browse</string>
+    <string name="web_url">Web URL:</string>
+    <string name="enter_url_link"> Enter URL Link</string>
+    <string name="phone_no">Phone No.:</string>
+    <string name="enter_phone_no"> Enter Phone No.</string>
+    <string name="call">Call</string>
+    <string name="alarm">Alarm</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="call_log">Call Log</string>
+    <string name="call_log_">Call Log :</string>
+    <string name="gallery_">Gallery :</string>
+    <string name="camera_">Camera :</string>
+    <string name="alarm_">Alarm :</string>
+    <string name="login">Login :</string>
+    <string name="loginbtn">Login</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="password">Password :</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="email_id">Email Id :</string>
+</resources>
